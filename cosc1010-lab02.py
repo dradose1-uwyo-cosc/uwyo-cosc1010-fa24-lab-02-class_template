@@ -1,9 +1,9 @@
 # Krysta Dennis
 # UWYO COSC 1010
-# Submission Date
+# 19SEP2024
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: Talon
+# Lab Section: 12
+# Sources, people worked with, help given to: Help from Talon
 # your
 # comments
 # here
@@ -34,12 +34,12 @@ print(f"The {name} was founded in {year}")
     # Create two variables x and y and assign them the values 5 and 10 respectively 
     # Complete the following print statements using your variables
     #All math must be done within the braces in the f-strings
-x = "5"
-y = "10"
-print(f"x + y = {x + y}")
-print(f"x - y = {x - y}")
-print(f"x * y = {x * y}")
-print(f"x / y = {x / y}")
+Variable_x = (5)
+Variable_y = (10)
+print(f"x + y = {Variable_x + Variable_y}")
+print(f"x - y = {Variable_x-Variable_y}")
+print(f"x * y = {Variable_x * Variable_y}")
+print(f"x / y = {Variable_x / Variable_y}")
 
 # String concatenation 
     # Finally we will take a look at string concatenation
@@ -52,5 +52,6 @@ print(f"x / y = {x / y}")
     # Use string concatenation to print out your full name 
 first_name = "Krysta"
 last_name = "Dennis"
-print(f"{first_name} + {last_name})
+space = " "
+print(f"{first_name}{space}{last_name}")
 
