@@ -1,3 +1,8 @@
+#Name : Rikart Yeimo
+#Lab Section : Homework 4
+#Submission Date : 11/12/2024
+#Helped by : Ryan Zafft
+
 from pathlib import Path
 
 inputPath = Path("prompt.txt")
