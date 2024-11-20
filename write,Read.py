@@ -1,0 +1,1 @@
+cleaning is my favorite onedrinking water is healthyeating fruits and vegetables are healthyeating rice is cooldrawing is creating creativityclean up room is my habitmakan ayam is delicious 
